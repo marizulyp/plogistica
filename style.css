@@ -1,0 +1,13 @@
+form {
+    background-color: #fff;
+    border-radius: 16px;
+    padding: 48px;
+}
+
+html,body{
+    background: #00E58E;
+}
+
+edit,html,body{
+    background: #003134;
+}
